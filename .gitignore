@@ -1,5 +1,4 @@
 out/
 *.class
 .idea/
-src/test
-src/deneme
+src/deneme/
